@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Olá, seja bem-vindo! 👋
-Eu me chamo Marcus Vinícius e no momento estou focado em iniciar carreira como desenvolvedor back-end ASP.NET.
-Fique à vontade para me contatar por aqui ou pelo meu perfil no LinkedIn.
+Eu me chamo Marcus Vinícius e no momento estou focado em iniciar carreira como desenvolvedor back-end.
+Fique à vontade para se conectar comigo no LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-vin%C3%ADcius-pires/)
 
