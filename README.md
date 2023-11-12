@@ -13,12 +13,45 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hello and Welcome! 👋
+My name is Marcus Vinícius and I'm currently working towards getting my first job as a junior ASP.NET developer. Feel free to connect with me on LinkedIn.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-vin%C3%ADcius-pires/)
+
+### Hard Skills
+- Test-driven development (TDD)
+- Integration and unit testing
+- Design patterns
+- Object-oriented design
+- SOLID principles
+
+### Soft Skills
+- Ambition
+- Grit
+- Discipline
+- Planning and prioritization
+- Writing, in both Portuguese and English
+
+
 # Olá, seja bem-vindo! 👋
 Eu me chamo Marcus Vinícius e no momento estou focado em iniciar carreira como desenvolvedor back-end.
 Fique à vontade para se conectar comigo no LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-vin%C3%ADcius-pires/)
 
+### Hard Skills
+- Desenvolvimento orientado a testes (TDD)
+- Testes de unidade e integração
+- Design patterns
+- Design orientado a objetos
+- Princípios SOLID
+
+### Soft Skills
+- Ambição
+- Perseverança
+- Disciplina
+- Planejamento e priorização
+- Comunicação escrita, em português e em inglês
 
 ### Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -30,17 +63,3 @@ Fique à vontade para se conectar comigo no LinkedIn.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvipi&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### Hard Skills
-- TDD
-- Testes de unidade e integração
-- Design patterns
-- Design orientado a objetos
-- Princípios SOLID
-
-### Soft Skills
-- Ambição
-- Perseverança
-- Disciplina
-- Organização
-- Comunicação escrita, em português e em inglês
