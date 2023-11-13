@@ -30,7 +30,7 @@ My name is Marcus Vinícius and I'm currently working towards getting my first j
 - Grit
 - Discipline
 - Planning and prioritization
-- Writing, in both Portuguese and English
+- Writing in Portuguese and English
 
 
 # Olá, seja bem-vindo! 👋
@@ -51,7 +51,7 @@ Fique à vontade para se conectar comigo no LinkedIn.
 - Perseverança
 - Disciplina
 - Planejamento e priorização
-- Comunicação escrita, em português e em inglês
+- Comunicação escrita em português e em inglês
 
 # Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
