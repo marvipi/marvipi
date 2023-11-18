@@ -25,14 +25,6 @@ My name is Marcus Vinícius and I'm currently working towards getting my first j
 - Object-oriented design
 - SOLID principles
 
-### Soft Skills
-- Ambition
-- Grit
-- Discipline
-- Planning and prioritization
-- Writing in Portuguese and English
-
-
 # Olá, seja bem-vindo! 👋
 Eu me chamo Marcus Vinícius e no momento estou focado em iniciar carreira como desenvolvedor back-end.
 Fique à vontade para se conectar comigo no LinkedIn.
@@ -45,13 +37,6 @@ Fique à vontade para se conectar comigo no LinkedIn.
 - Design patterns
 - Design orientado a objetos
 - Princípios SOLID
-
-### Soft Skills
-- Ambição
-- Perseverança
-- Disciplina
-- Planejamento e priorização
-- Comunicação escrita em português e em inglês
 
 # Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
