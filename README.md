@@ -47,4 +47,4 @@ Fique à vontade para se conectar comigo no LinkedIn.
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvipi&layout=donut&theme=dark&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvipi&layout=donut&theme=dark&hide=css,shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
