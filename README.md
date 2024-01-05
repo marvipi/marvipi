@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 # Hello and Welcome! 👋
-My name is Marcus Vinícius and I'm currently working towards getting my first job as a junior ASP.NET developer. Feel free to connect with me on LinkedIn.
+My name is Marcus Vinícius and I'm a .NET developer. Feel free to connect with me on LinkedIn.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-vin%C3%ADcius-pires/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvipi-dev/)
 
 ### Hard Skills
 - Test-driven development (TDD)
@@ -26,10 +26,9 @@ My name is Marcus Vinícius and I'm currently working towards getting my first j
 - SOLID principles
 
 # Olá, seja bem-vindo! 👋
-Eu me chamo Marcus Vinícius e no momento estou focado em iniciar carreira como desenvolvedor back-end.
-Fique à vontade para se conectar comigo no LinkedIn.
+Eu me chamo Marcus Vinícius e sou desenvolvedor .NET. Fique à vontade para se conectar comigo no LinkedIn.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-vin%C3%ADcius-pires/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvipi-dev/)
 
 ### Hard Skills
 - Desenvolvimento orientado a testes (TDD)
